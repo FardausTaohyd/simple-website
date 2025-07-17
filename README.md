@@ -15,4 +15,4 @@ This is a basic and responsive static website using only HTML, CSS, and a little
 - JavaScript (for email & password validation)
 
 ## ✍️ Author
-**Your Name** – [GitHub Profile](https://github.com/FardausTaohyd)
+**Fardaus_Taohyd** – [GitHub Profile](https://github.com/FardausTaohyd)
